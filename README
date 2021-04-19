@@ -1,0 +1,1 @@
+Test if a push was direct (instead of a PR) and warn about that as a comment.
